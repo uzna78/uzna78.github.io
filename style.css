@@ -1,0 +1,57 @@
+
+
+.pa{
+    color: orange;
+    size: 50px;
+
+}
+
+.bod{
+    background-image: url("s.jpg");
+}
+
+
+
+.ptr{
+    margin-bottom:25% ;
+    margin-right: 25%;
+
+}
+
+.tilt{
+    background-color: black;
+    color: orange;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+}
+
+.navi{
+    background-color: orange;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 5px;
+}
+.rl1{
+    margin-left: 75%;
+    margin-right: 15%;
+    margin-top: 4%;
+}
+.rl2{
+    margin-left: 15%;
+    margin-right: 75%;
+    margin-top: 7%;
+}
+.rl3{
+    margin-left: 50%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+.vid{
+    size: cover;
+    margin-left: 25%;
+    margin-right: 25%;
+}
